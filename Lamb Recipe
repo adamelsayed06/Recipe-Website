@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lamb Chops Recipe</title>
+</head>
+<body>
+    <h1>Lamp Chops Recipe</h1>
+    <img src="images/lamb.jpg">
+    <p>Ever wondered how to cook lamb chops? It's surprisingly easy and quick.  Because lamb loin chops naturally have so much amazing flavor, you don't have to add too much to enhance it.  In this easy recipe, I use lots of garlic, salt & pepper, and olive oil - just to bring out the natural savory flavor of the lamb.</p>
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>4 lamb loin chops</li>
+        <li>3 tablespoons olive oil</li>
+        <li>5 garlic cloves minced</li>
+        <li>1 teaspoon salt</li>
+        <li>½ teaspoon ground black pepper</li>
+        <li>1 tablespoon olive oil</li>
+        <li>fresh parsley chopped</li>
+        <li>¼ cup pomegranate seeds</li>
+    </ul>
+
+
+    <h2>Steps</h2>
+
+    <ol>
+        <li>Bring lamb loin chops to room temperature. That means taking them out of the refrigerator 30 minutes prior to cooking and allowing them to reach room temperature before cooking.</li>
+        <li>Combine 3 tablespoons olive oil, minced garlic, 1 teaspoon salt, ½ teaspoon pepper in a small bowl, and mix. Rub lamb loin chops with this mixture. </li>
+        <li>Heat 1 tablespoon olive oil in a large skillet (I used stainless steel skillet) on medium-high heat. Add lamb loin chops and cook on medium-high heat for about 3 minutes on one side, then turn over and cook for 3 minutes on the other side. Use splatter screen, if needed. </li>
+        <li>Then, reduce the heat to low, flip the lamb chops back to the other side, and let them cook on low heat for about 5 more minutes.  </li>
+        <li>Remove the skillet from heat, cover with lid. Let the lamb loin chops rest after cooking, in the skillet, off heat, covered, for about 10-15 minutes.</li>
+        <li>After 10 minutes, check the lamb loin chops for doneness. They should have a nice pink color when cut in the center (not raw). The internal temperature of chops should register at 145 F. If the lamb chops are still raw, continue cooking, covered, on medium heat for another 5-10 minutes, until they are properly cooked.</li>
+        <li>Garnish with chopped fresh parsley before serving. Garnish with pomegranate seeds, if desired.</li>
+    </ol>
+</body>
+</html>
